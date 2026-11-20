@@ -8,7 +8,7 @@
  * اجرا می‌شود تا بتوانید ظاهر و امکانات را بدون سرور هم بررسی کنید.
  */
 window.PSPS_CONFIG = {
-  SUPABASE_URL: "https://mggbgusgyfcnqlkzbehw.supabase.co/rest/v1/",
+  SUPABASE_URL: "https://mggbgusgyfcnqlkzbehw.supabase.co",
   SUPABASE_ANON_KEY: "sb_publishable_NHYoFnBpnu952tkH5jsuWQ_wJ1EJo-9",
   STORAGE_BUCKET: "cat-photos",
 
